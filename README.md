@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋 I'm Daan Bouma
 
 I'm a passionate web developer with a love for crafting both front-end and back-end experiences. Whether it's bringing dynamic, user-friendly websites to life or building robust back-end systems, I'm always eager to explore new challenges and expand my skillset.
